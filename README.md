@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-### My Favorite Foods
+### My Favorite Movies
 
-1.Bulalo
-2.Sisig
-3.Garlic Butter Shrimp
+1.Final Destination
+2.The Conjuring: Last Rites
+3.28 yrs Later
